@@ -24,25 +24,6 @@ My technical interests encompass **enterprise systems, computer networking, infr
 
 I am pursuing **Summer 2027 internship opportunities** that offer substantive experience in infrastructure engineering, IT operations, networking, cybersecurity, or cloud engineering.
 
-## Selected Engineering Projects
-
-My portfolio prioritizes documented implementation, observable results, and transparent reporting of technical limitations.
-
-<table>
-  <tr>
-    <th align="left">Project</th>
-    <th align="left">Practical work and evidence</th>
-  </tr>
-  <tr>
-    <td width="32%"><strong><a href="https://github.com/jakech-sys/it-support-homelab">IT Support & Systems Administration Home Lab</a></strong><br/>Virtualization · Windows Server · Active Directory</td>
-    <td>Built a VirtualBox-based Windows environment with a Windows Server 2019 domain controller and domain-joined workstations. Configured Active Directory Domain Services and DNS, created user accounts, verified domain sign-ins, and documented the investigation of domain-discovery failures. Includes a <a href="https://github.com/jakech-sys/it-support-homelab/blob/main/runbooks/active-directory-domain-join.md">troubleshooting runbook</a> and <a href="https://github.com/jakech-sys/it-support-homelab/tree/main/labs/01-active-directory-environment">lab evidence</a>.</td>
-  </tr>
-  <tr>
-    <td><strong><a href="https://github.com/jakech-sys/network-engineering-labs">Network Engineering Labs</a></strong><br/>Cisco Packet Tracer · Network Topology</td>
-    <td>Created and documented an introductory two-branch network topology using routers, switches, firewalls, end-user computers, and servers. Published the <a href="https://github.com/jakech-sys/network-engineering-labs/blob/main/lab-01-network-devices/README.md">lab report</a>, <a href="https://github.com/jakech-sys/network-engineering-labs/blob/main/lab-01-network-devices/topology.png">topology screenshot</a>, and Packet Tracer project. The current lab establishes the physical/logical layout; IP configuration and connectivity validation are subsequent stages.</td>
-  </tr>
-</table>
-
 **Portfolio principle:** Each project should demonstrate a defined objective, the implemented environment, verification evidence, troubleshooting decisions, and clearly identified next steps.
 
 ## Technical Competencies & Development Areas
